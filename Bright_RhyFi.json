@@ -1,0 +1,20 @@
+json
+
+{
+  "name": "Bright RhyFi",
+  "description": "The brightest blue of RhyFis.",
+  "image": "https://github.com/DSwallow/Decentralised-Finance-Group-Project/blob/main/NFT%20images/Bright_RhyFi.png?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Variant",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Colour",
+      "value": "Blue"
+    },
+    { "trait_type": "Number",
+      "value": "Multiple"
+    },
+  ]
+}

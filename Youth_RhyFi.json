@@ -1,0 +1,20 @@
+json
+
+{
+  "name": "Young RhyFi",
+  "description": "The most youthful of RhyFis.",
+  "image": "https://github.com/DSwallow/Decentralised-Finance-Group-Project/blob/main/NFT%20images/Youth_RhyFI.png?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Variant",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Colour",
+      "value": "Yellow"
+    },
+    { "trait_type": "Number",
+      "value": "Single"
+    },
+  ]
+}

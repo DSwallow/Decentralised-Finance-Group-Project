@@ -1,0 +1,20 @@
+json
+
+{
+  "name": "Remarkable RhyFi",
+  "description": "The most remarkable of RhyFis.",
+  "image": "https://github.com/DSwallow/Decentralised-Finance-Group-Project/blob/main/NFT%20images/Remarkable_RhyFi.png?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Variant",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Colour",
+      "value": "Red"
+    },
+    { "trait_type": "Number",
+      "value": "Single"
+    },
+  ]
+}
