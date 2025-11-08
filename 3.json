@@ -1,5 +1,3 @@
-json
-
 {
   "name": "Glorious RhyFi",
   "description": "The greenest of RhyFis.",
@@ -17,4 +15,5 @@ json
       "value": "Multiple"
     },
   ]
+
 }
