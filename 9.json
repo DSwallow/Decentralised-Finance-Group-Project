@@ -1,5 +1,3 @@
-json
-
 {
   "name": "Yuppie RhyFi",
   "description": "The most yuppie of RhyFis.",
@@ -17,4 +15,5 @@ json
       "value": "Multiple"
     },
   ]
+
 }
